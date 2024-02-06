@@ -59,16 +59,9 @@ section.third{
     .php {width: 60%; background-color: black;}
 }
 section.fourth{
-    input[type=text], select {
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        display: inline-block;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        box-sizing: border-box;
-      }
-      input[type=email], select {
+        
+}
+    input[type=email], select {
         width: 100%;
         padding: 12px 20px;
         margin: 8px 0;
@@ -99,4 +92,3 @@ section.fourth{
       input[type=submit]:hover {
         background-color: #DEDEDE;
       }
-}
